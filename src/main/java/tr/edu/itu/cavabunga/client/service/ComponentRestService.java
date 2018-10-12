@@ -2,8 +2,6 @@ package tr.edu.itu.cavabunga.client.service;
 
 import org.springframework.web.client.RestTemplate;
 import lombok.Data;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 import tr.edu.itu.cavabunga.lib.entity.Component;
 import tr.edu.itu.cavabunga.lib.http.ComponentResponse;
 import tr.edu.itu.cavabunga.lib.http.Response;
